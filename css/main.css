@@ -1,0 +1,38 @@
+body {
+    background-color: #181817;
+    height: 100%;
+    font-family: "Roboto Mono", serif; 
+}
+
+
+
+
+.header {
+    padding-top: 5%;
+    padding-bottom: 7.5%;
+    
+}
+
+.header a{
+    color:white;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+
+.splash{
+    padding-bottom: 7.5%;
+}
+
+/*
+.typed-out {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 2.5s forwards;
+}
+  
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+*/
